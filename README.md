@@ -28,7 +28,7 @@ Hi there! I'm an IT security specialist passionate about **memory forensics, mal
 - [x] Bachelor of Science Computer Science, IU Bad Honnef
 - [ ] Bachelor of Engineering IT-Forensics, HS Wismar
 - [ ] Master of Science IT-Security, HS Munich
-- [x] Instructor Certification (AdA), Data Privacy Officer (Datenschutzbeauftragter), ITIL Foundation
+- [x] Certifications: Instructor Certification (AdA), Data Privacy Officer (Datenschutzbeauftragter), ITIL Foundation
 - [ ] Future Prospects: SANS Graduate Certificate Programs: Incident Response (GCFE, GCFA, GNFA, GEIR)
 
 ## 🚀 Current Project: Memory Investigator  
